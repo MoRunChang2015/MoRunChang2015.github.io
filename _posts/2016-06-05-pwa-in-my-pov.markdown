@@ -1,10 +1,10 @@
 ---
 layout:     keynote
-title:      "Progressive Web App 之我见"
-subtitle:   "Slides: Progressive Web App, in my points of view"
+title:      "Hello world"
+subtitle:   ""
 iframe:     "http://huangxuan.me/pwa-in-my-pov/"
-date:       2016-06-05
-author:     "Hux"
+date:       2016-07-22
+author:     "Morc"
 tags:
     - 前端开发
     - JavaScript
